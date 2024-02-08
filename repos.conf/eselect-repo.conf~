@@ -1,0 +1,17 @@
+# created by eselect-repo
+
+[steam-overlay]
+location = /var/db/repos/steam-overlay
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/steam-overlay.git
+
+
+[gentoo-unity7]
+location = /var/db/repos/gentoo-unity7
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/gentoo-unity7.git
+
+[gentoo-zh]
+location = /var/db/repos/gentoo-zh
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/gentoo-zh.git
